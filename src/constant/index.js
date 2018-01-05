@@ -1,0 +1,1 @@
+export const apiUrl = 'http://5a379202be179d00129701fe.mockapi.io/api/bills';
